@@ -1,5 +1,9 @@
-## Hi 👋 I'm Bhagesh Madavi
-### A passionate full-Stack web developer from India
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Bhagesh Madavi
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdei&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;I'm+a+Software+Engineer" /></a>
+</p>
+<!-- ### A passionate Full-Stack Web Developer from India -->
+
 <!--
 **123bhagesh/123bhagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Hi, I'm Bhagesh ,An aspiring full-stack developer. I’m looking to collaborate on frontend software engineering projects.
+- 📫 How to reach me: 123bhagesh@gmail.com
 <br>
 <p><img align="right" width="410px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=123bhagesh&label=Profile%20views&color=0e75b6&style=flat"
+### 👨🏻‍💻 &nbsp;Profile Views
+
+<p align="left"> <img width="150px" height="30px" src="https://komarev.com/ghpvc/?username=123bhagesh&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
-
-<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -63,6 +68,9 @@ Here are some ideas to get you started:
       alt="html5" width="45" height="45" />     
 
  </p>
+ <br/>
+ 
+ -----
 
 ### ⚙️ &nbsp;GitHub Analytics
 ​
