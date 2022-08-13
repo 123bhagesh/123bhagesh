@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<p><img align="right" width="450px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="410px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=123bhagesh&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
@@ -33,9 +33,7 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/bhagesh.madavi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
- <a href="123bhagesh@gmail.com"><img align="center"
-      src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"
-      alt="adampithewan" height="40" width="40" /></a>
+
 </p>
 
 <br>
@@ -66,13 +64,6 @@ Here are some ideas to get you started:
 
  </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-</p>
-
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 ​
 <div align="center">
@@ -94,5 +85,8 @@ Here are some ideas to get you started:
 
 <br>
 
+-----
+Credits: [Bhageh Mulchand Madavi](https://github.com/123bhagesh)
 
+Last Edited on: 14/08/2022
 
