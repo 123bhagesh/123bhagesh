@@ -89,8 +89,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=123bhagesh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=123bhagesh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p> -->
 
 <br>
 
