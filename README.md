@@ -45,47 +45,41 @@ Here are some ideas to get you started:
 <br>
 
 ### 🛠 &nbsp;Tech Stack
+ <p align="center">
+ <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="50" height="50" />
+ <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="50" height="50" />
+ <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="50" height="50" />
+ <img
+      src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg"
+      width="50" height="50" />
+  <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"
+      alt="javascript" width="50" height="50" />
+ <img
+      src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" alt="css3"
+      width="50" height="50" />
+ <img
+      src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
+      alt="html5" width="50" height="50" />     
+
 
  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
- <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" />
- <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
- <img
       src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg"
-      width="40" height="40" />
-       <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
- <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" />
- <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
- <img
-      src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg"
-      width="40" height="40" />
- <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"
-      alt="javascript" width="50" height="40" />
+      width="50" height="50" />
+
 
  <img
       src="https://react-redux.js.org/img/redux-logo-landscape.png"
-      alt="html5" width="40" height="40" />
- <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"
-      alt="javascript" width="50" height="40" />
+      alt="html5" width="50" height="50" />
 
- <img
-      src="https://react-redux.js.org/img/redux-logo-landscape.png"
-      alt="html5" width="40" height="40" />
-      
-      <br/>
+ </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
