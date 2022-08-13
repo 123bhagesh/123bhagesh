@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <h4>Hi, I'm Bhagesh ,An aspiring full-stack developer. I’m looking to collaborate on frontend projects. I love to learn and build something new, productive, innovative and creative.</h4>
+<p><img align="right" width="380px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning React-TypeScript
 - 💬 Ask me about anything, I am happy to help you.
 - 📫 Reach out to me at: 123bhagesh@gmail.com
 <br>
-<p><img align="right" width="410px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### 👨🏻‍💻 &nbsp;Profile Views
 
