@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,8 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Bhagesh ,An aspiring full-stack developer. I’m looking to collaborate on frontend software engineering projects.
-- 📫 How to reach me: 123bhagesh@gmail.com
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+<h4>Hi, I'm Bhagesh ,An aspiring full-stack developer. I’m looking to collaborate on frontend projects. I love to learn and build something new, productive, innovative and creative.</h4>
+
+- 🌱 I’m currently learning React-TypeScript
+- 💬 Ask me about anything, I am happy to help you.
+- 📫 Reach out to me at: 123bhagesh@gmail.com
 <br>
 <p><img align="right" width="410px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
