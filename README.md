@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help you.
 - 📫 Reach out to me at: 123bhagesh@gmail.com
 
-<p align="left"> <img width="130px" height="25px" src="https://komarev.com/ghpvc/?username=123bhagesh&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img width="120px" height="21px" src="https://komarev.com/ghpvc/?username=123bhagesh&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
