@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     alt="adam-pw" /> 
   </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;***Connect with Me***
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhagesh-madavi-a3b730219/" target="blank"><img align="center"
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;***Tech Stack***
  <p >
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  </p>
  <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;***GitHub Analytics***
 ​
 <div align="center">
 
