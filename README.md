@@ -23,29 +23,25 @@ Here are some ideas to get you started:
   </p>
 
 <br>
-<h3 align="left">Connect with me:</h3>
+
+### 🤝🏻 &nbsp;Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/bhagesh-madavi-a3b730219/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+  <a href="https://www.facebook.com/bhagesh.madavi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+ <a href="123bhagesh@gmail.com"><img align="center"
+      src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"
+      alt="adampithewan" height="40" width="40" /></a>
 </p>
 
 <br>
 
 ### 🛠 &nbsp;Tech Stack
- <p align="center">
+ <p >
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="50" height="50" />
@@ -67,16 +63,6 @@ Here are some ideas to get you started:
  <img
       src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
       alt="html5" width="50" height="50" />     
-
-
- <img
-      src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg"
-      width="50" height="50" />
-
-
- <img
-      src="https://react-redux.js.org/img/redux-logo-landscape.png"
-      alt="html5" width="50" height="50" />
 
  </p>
 
@@ -108,5 +94,5 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🤝🏻 &nbsp;Connect with Me
+
 
