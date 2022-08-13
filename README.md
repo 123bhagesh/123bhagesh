@@ -15,22 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-17
+
 ### ⚙️ &nbsp;GitHub Analytics
-18
 ​
-19
 <p align="center">
-20
+
 <a href="https://github.com/AVS1508">
-21
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=123bhagesh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-22
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=123bhagesh&layout=compact&langs_count=5&theme=algolia"/>
-23
 </a>
-24
 </p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123bhagesh&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
@@ -46,3 +45,5 @@ Here are some ideas to get you started:
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123bhagesh&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+### 🤝🏻 &nbsp;Connect with Me
+
