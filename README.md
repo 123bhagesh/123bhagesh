@@ -69,7 +69,12 @@ Here are some ideas to get you started:
  <img
       src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
       alt="html5" width="45" height="45" />     
-
+ <img
+      src="https://authy.com/wp-content/uploads/npm-logo.png"
+      width="45" height="45" />
+ <img
+      src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"
+      alt="html5" width="45" height="45" />     
  </p>
  <br/>
 
