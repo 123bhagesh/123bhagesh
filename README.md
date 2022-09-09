@@ -6,9 +6,7 @@
 
 <!--
 **123bhagesh/123bhagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
@@ -20,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
 <h4>Hi, I'm Bhagesh ,An aspiring full-stack developer. I’m looking to collaborate on frontend projects. I love to learn and build something new, productive, innovative and creative.</h4>
 <p><img align="right" width="380px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -33,7 +30,7 @@ Here are some ideas to get you started:
     alt="adam-pw" /> 
   </p>
 
-### 🤝🏻 &nbsp;***Connect with Me***
+## 🤝🏻 &nbsp;***Connect with Me***
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhagesh-madavi-a3b730219/" target="blank"><img align="center"
@@ -45,42 +42,38 @@ Here are some ideas to get you started:
 
 </p>
 
-<br>
-
-### 🛠 &nbsp;***Tech Stack***
+## 🛠 &nbsp;***Tech Stack***
  <p >
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="45" height="45" />
+      alt="javascript" width="41" height="41" />
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="45" height="45" />
+      width="41" height="41" />
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="45" height="45" />
+      alt="html5" width="41" height="41" />
  <img
       src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg"
-      width="45" height="45" />
+      width="41" height="41" />
   <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png"
-      alt="javascript" width="45" height="45" />
+      alt="javascript" width="41" height="41" />
  <img
       src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png" alt="css3"
-      width="45" height="45" />
+      width="41" height="41" />
  <img
       src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
-      alt="html5" width="45" height="45" />     
+      alt="html5" width="41" height="41" />     
  <img
       src="https://authy.com/wp-content/uploads/npm-logo.png"
-      width="45" height="45" />
+      width="41" height="41" />
  <img
       src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"
-      alt="html5" width="45" height="45" />     
+      alt="html5" width="41" height="41" />     
  </p>
- <br/>
 
-### ⚙️ &nbsp;***GitHub Analytics***
-​
+## ⚙️ &nbsp;***GitHub Analytics***
 <div align="center">
 
 <a href="https://github.com/123bhagesh">
