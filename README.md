@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React-TypeScript
 - 💬 Ask me about anything, I am happy to help you.
 - 📫 Reach out to me at: 123bhagesh@gmail.com
-- 😄 Checkout my Portfolio: <a href="https://123bhagesh.github.io/bhagesh-portfolio/" target="_blank">Portfolio</a>
+- 😄 Checkout my Portfolio: <a href="https://123bhagesh.github.io/bhagesh-portfolio/" target="_blank" >Portfolio</a>
 
 <p align="left"> <img width="120px" height="23px" src="https://komarev.com/ghpvc/?username=123bhagesh&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
