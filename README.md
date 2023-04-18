@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Bhagesh Madavi
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdei&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer;I'm+a+Software+Engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdei&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Web+Developer;I'm+a+Software+Engineer" /></a>
 </p>
 <!-- ### A passionate Full-Stack Web Developer from India -->
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-<h4>Hi, I'm Bhagesh ,An aspiring full-stack developer. I’m looking to collaborate on frontend projects. I love to learn and build something new, productive, innovative and creative.</h4>
+<h4>Hi, I'm Bhagesh ,An aspiring Frontend web developer. I’m looking to collaborate on frontend projects. I love to learn and build something new, productive, innovative and creative.</h4>
 <p><img align="right" width="380px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning React-TypeScript
